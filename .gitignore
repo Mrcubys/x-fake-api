@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Build / dist
+build/
+dist/
+*.egg-info/
